@@ -1,0 +1,4 @@
+numpy~=1.26.1
+XlsxWriter~=3.1.9
+matplotlib~=3.8.0
+torch~=2.1.0+cu121
